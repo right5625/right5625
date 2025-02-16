@@ -123,7 +123,7 @@
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏫 Activity </h2>
-    <table style="max-width: 500px;">
+    <table style="font-size: 12px;">
         <thead>
             <tr>
                 <th>홛동명</th>
@@ -135,19 +135,19 @@
         </thead>
         <tbody>
             <tr>
-                <td>Google Developer Student Clubs DEU 2기</td>
+                <td><sapn>Google Developer<br>Student Clubs<br>DEU 2기</sapn></td>
                 <td>Google</td>
                 <td>2022.09~2023.08(22-23)</td>
                 <td>
                     <ul>
                         <li>알고리즘 스터디장 역할 수행</li>
-                        <li>놀러와요 해커톤 기획 및 개최</li>
+                        <li>놀러와요 해커톤 개최</li>
                     </ul>
                 </td>
                 <td>https://gdsc-deu.github.io/</td>
             </tr>
             <tr>
-                <td>BOB CLUB 18기 & 19기</td>
+                <td><span>BOB CLUB<br>18기 & 19기</span></td>
                 <td>동의대학교</td>
                 <td>
                     <ul>
