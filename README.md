@@ -51,6 +51,7 @@
                 <th>자격종류</th>
                 <th>시행기관</th>
                 <th>취득일</th>
+                <th>비고</th>
             </tr>
         </thead>
         <tbody>
@@ -59,54 +60,63 @@
                 <td>국가기술자격</td>
                 <td>한국산업인력공단</td>
                 <td>2024.06.18</td>
+                <td>-</td>
             </tr>
             <tr>
                 <td>빅데이터분석기사</td>
                 <td>국가기술자격</td>
                 <td>한국데이터산업진흥원</td>
                 <td>2024.12.20</td>
+                <td>-</td>
             </tr>
             <tr>
                 <td>SQLD(SQL개발자)</td>
                 <td>국가공인민간자격</td>
                 <td>한국데이터산업진흥원</td>
                 <td>2024.06.21</td>
+                <td>-</td>
             </tr>
             <tr>
                 <td>ADsP(데이터분석준전문가)</td>
                 <td>국가공인민간자격</td>
                 <td>한국데이터산업진흥원</td>
                 <td>2024.09.06</td>
+                <td>-</td>
             </tr>
             <tr>
                 <td>리눅스마스터1급</td>
                 <td>국가공인민간자격</td>
                 <td>한국정보통신진흥협회</td>
                 <td>2020.12.11</td>
+                <td>-</td>
             </tr>
             <tr>
                 <td>컴퓨터활용능력1급</td>
                 <td>국가기술자격</td>
                 <td>대한상공회의소</td>
                 <td>2020.05.22</td>
+                <td>-</td>
             </tr>
             <tr>
                 <td>워드프로세서</td>
                 <td>국가기술자격</td>
                 <td>대한상공회의소</td>
                 <td>2020.06.12</td>
+                <td>-</td>
             </tr>
             <tr>
                 <td>ITQ(정보기술자격) A등급</td>
                 <td>국가공인민간자격</td>
                 <td>한국생산성본부</td>
                 <td>2020.07.30</td>
+                <td>OA 마스터 보유</td>
             </tr>
             <tr>
-                <td>e-Test Professionals</td>
+                <td>e-Test Professionals 1등급</td>
                 <td>국가공인민간자격</td>
                 <td>(사)한국창의인성교육연구원</td>
                 <td>2020.06.13</td>
+                <td>OA 마스터 보유</td>
             </tr>
         </tbody>
     </table>
