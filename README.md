@@ -129,99 +129,101 @@
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏫 Activity </h2>
-    <table>
-        <thead>
-            <tr>
-                <th>활동명</th>
-                <th>주최기관</th>
-                <th>기간</th>
-                <th>내용</th>
-                <th>비고</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Google Developer Student Clubs DEU 2기</td>
-                <td>Google</td>
-                <td>2022.09~2023.08(22-23)</td>
-                <td>
-                    <ul>
-                        <li>알고리즘 스터디장 역할 수행</li>
-                        <li>놀러와요 해커톤 기획 및 개최</li>
-                    </ul>
-                </td>
-                <td>https://gdsc-deu.github.io/</td>
-            </tr>
-            <tr>
-                <td>BOB CLUB 18기 & 19기</td>
-                <td>동의대학교</td>
-                <td>
-                    <ul>
-                        <li>18기 : 2024.03.18~2024.06.24</li>
-                        <li>19기 : 2024.09.01~2024.12.13</li>
-                    </ul>
-                <td>
-                    <ul>
-                        <li>자소서 첨삭 및 면접 교육 & 모의면접 진행</li>
-                        <li>경주 워크숍(2024.06.24~25) 참가</li>
-                        <li>부산 워크숍(2024.12.26) 참가</li>
-                    </ul>
-                </td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>전공 튜터링</td>
-                <td>동의대학교</td>
-                <td>2023.04.03~2023.06.11</td>
-                <td>튜터 역할로 C++ 과목 튜터링 수행</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>한은금요강좌</td>
-                <td>한국은행 부산본부</td>
-                <td>2024.04.19~2024.12.13</td>
-                <td>통화신용정책, 중앙은행 디지털화폐(CBDC) 등 교육 이수</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>BUFF(Busan University network of Future Financial leader) 8기</td>
-                <td>
-                    <ul>
-                        <li>BNK 부산은행</li>
-                        <li>한국자산관리공사</li>
-                    </ul>
-                </td>
-                <td>2024.09.24~2024.12.30</td>
-                <td>
-                    <ul>
-                        <li>BNK 부산은행, 한국자산관리공사 현직자 멘토링</li>
-                        <li>BNK 부산은행 주관 일일취업캠프 참가(부산은행 연수원)</li>
-                        <li>금융권 취업 특강</li>
-                        <li>FSC(Financial Specialist Contests) 경진대회 참가</li>
-                    </ul>
-                </td>
-                <td>
-                    <ul>
-                        <li>FSC(Financial Specialist Contests) 경진대회 최우수상 수상</li>
-                        <li>https://www.100ssd.co.kr/news/articleView.html?idxno=115804</li>
-                        <li>8기 우수 수료생 선발 및 한국자산관리공사 1개월 현장 실습생 선발</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>SSAFY(Samsung Software Academy For Youth) 13기</td>
-                <td>
-                    <ul>
-                        <li>Samsung</li>
-                        <li>고용노동부</li>
-                    </ul>
-                </td>
-                <td>2025.01.07~</td>
-                <td>~ing</td>
-                <td>1학기 부울경 캠퍼스 지역대표 역할 수행</td>
-            </tr>
-        </tbody>
-    </table>
+    <div style="overflow-x: auto;">
+        <table>
+            <thead>
+                <tr>
+                    <th>활동명</th>
+                    <th>주최기관</th>
+                    <th>기간</th>
+                    <th>내용</th>
+                    <th>비고</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Google Developer Student Clubs DEU 2기</td>
+                    <td>Google</td>
+                    <td>2022.09~2023.08(22-23)</td>
+                    <td>
+                        <ul>
+                            <li>알고리즘 스터디장 역할 수행</li>
+                            <li>놀러와요 해커톤 기획 및 개최</li>
+                        </ul>
+                    </td>
+                    <td>https://gdsc-deu.github.io/</td>
+                </tr>
+                <tr>
+                    <td>BOB CLUB 18기 & 19기</td>
+                    <td>동의대학교</td>
+                    <td>
+                        <ul>
+                            <li>18기 : 2024.03.18~2024.06.24</li>
+                            <li>19기 : 2024.09.01~2024.12.13</li>
+                        </ul>
+                    <td>
+                        <ul>
+                            <li>자소서 첨삭 및 면접 교육 & 모의면접 진행</li>
+                            <li>경주 워크숍(2024.06.24~25) 참가</li>
+                            <li>부산 워크숍(2024.12.26) 참가</li>
+                        </ul>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>전공 튜터링</td>
+                    <td>동의대학교</td>
+                    <td>2023.04.03~2023.06.11</td>
+                    <td>튜터 역할로 C++ 과목 튜터링 수행</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>한은금요강좌</td>
+                    <td>한국은행 부산본부</td>
+                    <td>2024.04.19~2024.12.13</td>
+                    <td>통화신용정책, 중앙은행 디지털화폐(CBDC) 등 교육 이수</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>BUFF(Busan University network of Future Financial leader) 8기</td>
+                    <td>
+                        <ul>
+                            <li>BNK 부산은행</li>
+                            <li>한국자산관리공사</li>
+                        </ul>
+                    </td>
+                    <td>2024.09.24~2024.12.30</td>
+                    <td>
+                        <ul>
+                            <li>BNK 부산은행, 한국자산관리공사 현직자 멘토링</li>
+                            <li>BNK 부산은행 주관 일일취업캠프 참가(부산은행 연수원)</li>
+                            <li>금융권 취업 특강</li>
+                            <li>FSC(Financial Specialist Contests) 경진대회 참가</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>FSC(Financial Specialist Contests) 경진대회 최우수상 수상</li>
+                            <li>https://www.100ssd.co.kr/news/articleView.html?idxno=115804</li>
+                            <li>8기 우수 수료생 선발 및 한국자산관리공사 1개월 현장 실습생 선발</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>SSAFY(Samsung Software Academy For Youth) 13기</td>
+                    <td>
+                        <ul>
+                            <li>Samsung</li>
+                            <li>고용노동부</li>
+                        </ul>
+                    </td>
+                    <td>2025.01.07~</td>
+                    <td>~ing</td>
+                    <td>1학기 부울경 캠퍼스 지역대표 역할 수행</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 <!--
 <br>
