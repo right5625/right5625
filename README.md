@@ -123,6 +123,18 @@
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏫 Activity </h2>
+    <style>
+        table {
+            width: 80%;
+            border-collapse: collapse;
+        }
+        th, td {
+            text-align: center;
+            font-size: 14px;
+            padding: 8px;
+            border: 1px solid #d8dee4;
+        }
+    </style>
     <table>
         <thead>
             <tr>
