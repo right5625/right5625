@@ -187,15 +187,15 @@
                 <td>BUFF(Busan University network of Future Financial leader) 8기</td>
                 <td>
                     <ul>
-                        <li>부산은행</li>
+                        <li>BNK 부산은행</li>
                         <li>한국자산관리공사</li>
                     </ul>
                 </td>
                 <td>2024.09.24~2024.12.30</td>
                 <td>
                     <ul>
-                        <li>부산은행, 한국자산관리공사 현직자 멘토링</li>
-                        <li>부산은행 주관 일일취업캠프 참가(부산은행 연수원)</li>
+                        <li>BNK 부산은행, 한국자산관리공사 현직자 멘토링</li>
+                        <li>BNK 부산은행 주관 일일취업캠프 참가(부산은행 연수원)</li>
                         <li>금융권 취업 특강</li>
                         <li>FSC(Financial Specialist Contests) 경진대회 참가</li>
                     </ul>
@@ -204,7 +204,7 @@
                     <ul>
                         <li>FSC(Financial Specialist Contests) 경진대회 최우수상 수상</li>
                         <li>https://www.100ssd.co.kr/news/articleView.html?idxno=115804</li>
-                        <li>8기 우수 수료생 및 한국자산관리공사 1개월 현장 실습생 선발</li>
+                        <li>8기 우수 수료생 선발 및 한국자산관리공사 1개월 현장 실습생 선발</li>
                     </ul>
                 </td>
             </tr>
