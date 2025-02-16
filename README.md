@@ -134,8 +134,8 @@
         </thead>
         <tbody>
             <tr>
-                <td>Google Developer Student Clubs DEU 2기</td>
-                <td>Google</td>
+                <td>GDSC DEU 2기</td>
+                <td><span>Google &<br>DEU</span></td>
                 <td>
                     <ul>
                         <li>알고리즘 스터디장 역할 수행</li>
@@ -146,7 +146,7 @@
             </tr>
             <tr>
                 <td>BOB CLUB 18기 & 19기</td>
-                <td>동의대학교</td>
+                <td>DEU</td>
                 <td>
                     <ul>
                         <li>자소서 첨삭 및 면접 교육 & 모의면접 진행</li>
@@ -158,10 +158,10 @@
             </tr>
             <tr>
                 <td>전공 튜터링</td>
-                <td>동의대학교</td>
+                <td>DEU</td>
                 <td>
                     <ul>
-                        <li>C++ 문법 및 객체지향 프로그래밍 내용 튜터링 수행</li>
+                        <li>C++ 문법 및 객체지향 프로그래밍 튜터링 수행</li>
                     </ul>
                 <td>2023.04.03~2023.06.11</td>
             </tr>
@@ -176,21 +176,21 @@
                 <td>2024.04.19~2024.12.13</td>
             </tr>
             <tr>
-                <td>BUFF(Busan University network of Future Financial leader) 8기</td>
+                <td>BUFF 8기</td>
                 <td><span>BNK 부산은행 &<br>한국자산관리공사</span></td>
                 <td>
                     <ul>
                         <li>BNK 부산은행, 한국자산관리공사 현직자 멘토링 참가(멘토링 조장 역할 수행)</li>
                         <li>BNK 부산은행 연수원 일일취업캠프 참가</li>
                         <li>금융권 취업 특강 참가</li>
-                        <li>FSC(Financial Specialist Contests) 경진대회 참가 및 최우수상 수상</li>
+                        <li>FSC(Financial Specialist Contests) 참가 및 최우수상 수상</li>
                         <li>8기 우수 수료생 선발 및 한국자산관리공사 1개월 현장 실습생 선발</li>
                     </ul>
                 </td>
                 <td>2024.09.24~2024.12.30</td>
             </tr>
             <tr>
-                <td>SSAFY(Samsung Software Academy For Youth) 13기</td>
+                <td>SSAFY 13기</td>
                 <td><span>Samsung &<br>고용노동부</span></td>
                 <td>
                     <ul>
