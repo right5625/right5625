@@ -123,7 +123,7 @@
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏫 Activity </h2>
-    <table style="width: 100%; text-align: center; font-size: 12px;">
+    <table>
         <thead>
             <tr>
                 <th>홛동명</th>
@@ -149,16 +149,11 @@
             <tr>
                 <td><span>BOB CLUB<br>18기 & 19기</span></td>
                 <td>동의대학교</td>
+                <td><span>18기 : 2024.03.18~2024.06.24<br>19기 : 2024.09.01~2024.12.13</span></td>
                 <td>
                     <ul>
-                        <li>18기 : 2024.03.18~2024.06.24</li>
-                        <li>19기 : 2024.09.01~2024.12.13</li>
-                    </ul>
-                </td>
-                <td>
-                    <ul>
-                        <li>자소서 첨삭 및 면접 교육 & 모의면접 진행</li>
-                        <li>경주 워크숍(2024.06.24~2024.06.25) 참가</li>
+                        <li><span>자소서 첨삭 및<br>면접 교육 & 모의면접 진행</span></li>
+                        <li>경주 워크숍(2024.06.24~25) 참가</li>
                         <li>부산 워크숍(2024.12.26) 참가</li>
                     </ul>
                 </td>
