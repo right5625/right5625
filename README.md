@@ -19,7 +19,7 @@
     </div>
 </div>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Studying... </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏ Studying... </h2>
     <br> 
     <div align= "center">  </div>
     <br> 
@@ -35,9 +35,10 @@
     </a>
 </div>
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Stats </h2>
     <div align= "center">
-        <img src="https://github-readme-stats.vercel.app/api?username=right5625&bg_color=60,4a90e2,8e44ad&title_color=ffffff&text_color=ffffff">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=right5625&layout=compact&bg_color=60,4a90e2,8e44ad&title_color=ffffff&text_color=ffffff">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=right5625&bg_color=60,4a90e2,8e44ad&title_color=ffffff&text_color=ffffff">
     </div> 
 </div>
