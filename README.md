@@ -123,7 +123,7 @@
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏫 Activity </h2>
-    <table>
+    <table style="max-width: 500px;">
         <thead>
             <tr>
                 <th>홛동명</th>
