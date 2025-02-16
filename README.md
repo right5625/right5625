@@ -134,7 +134,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>GDSC DEU 2기(22-23)</td>
+                <td>GDSC DEU 2기</td>
                 <td>Google & DEU</td>
                 <td>
                     <ul>
