@@ -70,6 +70,13 @@
                 <td></td>
             </tr>
             <tr>
+                <td>리눅스마스터1급</td>
+                <td>국가공인민간자격</td>
+                <td>한국정보통신진흥협회</td>
+                <td>2020.12.11</td>
+                <td></td>
+            </tr>
+            <tr>
                 <td>SQLD(SQL개발자)</td>
                 <td>국가공인민간자격</td>
                 <td>한국데이터산업진흥원</td>
@@ -81,13 +88,6 @@
                 <td>국가공인민간자격</td>
                 <td>한국데이터산업진흥원</td>
                 <td>2024.09.06</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>리눅스마스터1급</td>
-                <td>국가공인민간자격</td>
-                <td>한국정보통신진흥협회</td>
-                <td>2020.12.11</td>
                 <td></td>
             </tr>
             <tr>
@@ -105,17 +105,17 @@
                 <td></td>
             </tr>
             <tr>
+                <td>e-Test Professionals 1급</td>
+                <td>국가공인민간자격</td>
+                <td>(사)한국창의인성교육연구원</td>
+                <td>2020.06.13</td>
+                <td>OA Master 취득</td>
+            </tr>
+            <tr>
                 <td>ITQ(정보기술자격) A등급</td>
                 <td>국가공인민간자격</td>
                 <td>한국생산성본부</td>
                 <td>2020.07.30</td>
-                <td>OA Master 취득</td>
-            </tr>
-            <tr>
-                <td>e-Test Professionals 1등급</td>
-                <td>국가공인민간자격</td>
-                <td>(사)한국창의인성교육연구원</td>
-                <td>2020.06.13</td>
                 <td>OA Master 취득</td>
             </tr>
         </tbody>
