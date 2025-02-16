@@ -141,7 +141,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><sapn>Google Developer<br>Student Clubs<br>DEU 2기</sapn></td>
+                <td style="text-align: center;"><sapn>Google Developer<br>Student Clubs<br>DEU 2기</sapn></td>
                 <td>Google</td>
                 <td>2022.09~2023.08(22-23)</td>
                 <td>
