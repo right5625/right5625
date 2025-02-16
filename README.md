@@ -141,24 +141,28 @@
         </thead>
         <tbody>
             <tr>
-                <td><sapn>Google Developer<br>Student Clubs<br>DEU 2기</sapn></td>
+                <td>Google Developer Student Clubs DEU 2기</td>
                 <td>Google</td>
                 <td>2022.09~2023.08(22-23)</td>
                 <td>
                     <ul>
                         <li>알고리즘 스터디장 역할 수행</li>
-                        <li>놀러와요 해커톤 개최</li>
+                        <li>놀러와요 해커톤 기획 및 개최</li>
                     </ul>
                 </td>
                 <td>https://gdsc-deu.github.io/</td>
             </tr>
             <tr>
-                <td><span>BOB CLUB<br>18기 & 19기</span></td>
+                <td>BOB CLUB 18기 & 19기</td>
                 <td>동의대학교</td>
-                <td><span>18기 : 2024.03.18~2024.06.24<br>19기 : 2024.09.01~2024.12.13</span></td>
                 <td>
                     <ul>
-                        <li><span>자소서 첨삭 및<br>면접 교육 & 모의면접 진행</span></li>
+                        <li>18기 : 2024.03.18~2024.06.24</li>
+                        <li>19기 : 2024.09.01~2024.12.13</li>
+                    </ul>
+                <td>
+                    <ul>
+                        <li>자소서 첨삭 및 면접 교육 & 모의면접 진행</li>
                         <li>경주 워크숍(2024.06.24~25) 참가</li>
                         <li>부산 워크숍(2024.12.26) 참가</li>
                     </ul>
@@ -169,7 +173,7 @@
                 <td>전공 튜터링</td>
                 <td>동의대학교</td>
                 <td>2023.04.03~2023.06.11</td>
-                <td>튜터 역할로 활동을 시작하여 3명의 튜티에게 C++ 과목 튜터링</td>
+                <td>튜터 역할로 C++ 과목 튜터링 수행</td>
                 <td></td>
             </tr>
             <tr>
@@ -180,7 +184,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td>BUFF 8기</td>
+                <td>BUFF(Busan University network of Future Financial leader) 8기</td>
                 <td>
                     <ul>
                         <li>부산은행</li>
@@ -191,7 +195,7 @@
                 <td>
                     <ul>
                         <li>부산은행, 한국자산관리공사 현직자 멘토링</li>
-                        <li>부산은행 주관 일일취업캠프 참가</li>
+                        <li>부산은행 주관 일일취업캠프 참가(부산은행 연수원)</li>
                         <li>금융권 취업 특강</li>
                         <li>FSC(Financial Specialist Contests) 경진대회 참가</li>
                     </ul>
@@ -199,7 +203,8 @@
                 <td>
                     <ul>
                         <li>FSC(Financial Specialist Contests) 경진대회 최우수상 수상</li>
-                        <li>BUFF 8기 우수 수료생 및 한국자산관리공사 1개월 현장 실습생 선발</li>
+                        <li>https://www.100ssd.co.kr/news/articleView.html?idxno=115804</li>
+                        <li>8기 우수 수료생 및 한국자산관리공사 1개월 현장 실습생 선발</li>
                     </ul>
                 </td>
             </tr>
@@ -213,7 +218,7 @@
                 </td>
                 <td>2025.01.07~</td>
                 <td>~ing</td>
-                <td><span>1학기 부울경 캠퍼스<br>지역대표 역할 수행</span></td>
+                <td>1학기 부울경 캠퍼스 지역대표 역할 수행</td>
             </tr>
         </tbody>
     </table>
