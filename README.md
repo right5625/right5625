@@ -134,7 +134,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>GDSC DEU 2기</td>
+                <td>GDSC DEU 2기(22-23)</td>
                 <td>Google & DEU</td>
                 <td>
                     <ul>
@@ -142,7 +142,7 @@
                         <li>놀러와요 해커톤 기획 및 개최</li>
                     </ul>
                 </td>
-                <td>2022.09~2023.08(22-23)</td>
+                <td>2022.09~2023.08</td>
             </tr>
             <tr>
                 <td>전공 튜터링</td>
