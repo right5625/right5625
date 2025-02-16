@@ -154,7 +154,7 @@
                         <li>부산 워크숍(2024.12.26) 참가</li>
                     </ul>
                 </td>
-                <td>2024.03.18~2024.06.24 & 2024.09.01~2024.12.13</td>
+                <td><span>2024.03.18~2024.06.24 &<br>2024.09.01~2024.12.13</span></td>
             </tr>
             <tr>
                 <td>전공 튜터링</td>
@@ -177,7 +177,7 @@
             </tr>
             <tr>
                 <td>BUFF(Busan University network of Future Financial leader) 8기</td>
-                <td>BNK 부산은행 & 한국자산관리공사</td>
+                <td><span>BNK 부산은행 &<br>한국자산관리공사</span></td>
                 <td>
                     <ul>
                         <li>BNK 부산은행, 한국자산관리공사 현직자 멘토링 참가(멘토링 조장 역할 수행)</li>
