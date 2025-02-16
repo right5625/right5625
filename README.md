@@ -103,7 +103,7 @@
                 <td>2020.07.30</td>
             </tr>
             <tr>
-                <td>e-TestProfessionals</td>
+                <td>e-Test Professionals</td>
                 <td>국가공인민간자격</td>
                 <td>(사)한국창의인성교육연구원</td>
                 <td>2020.06.13</td>
