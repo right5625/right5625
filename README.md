@@ -39,7 +39,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Algorithm & Problem Solving </h2>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=right5625">
-    <img src="http://mazandi.herokuapp.com/api?handle=right5625&theme=warm">
+    <img src="http://mazandi.herokuapp.com/api?handle=right5625&theme=dark">
 </div>
 <br>
 <div align= "center">
