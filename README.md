@@ -191,7 +191,7 @@
             </tr>
             <tr>
                 <td>SSAFY(Samsung Software Academy For Youth) 13기</td>
-                <td>Samsung & 고용노동부</td>
+                <td><span>Samsung &<br>고용노동부</span></td>
                 <td>
                     <ul>
                         <li>1학기 부울경 캠퍼스 지역대표 역할 수행</li>
