@@ -33,13 +33,13 @@
 </div>
 <br>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥 Algorithm & Problem Solving </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Algorithm & Problem Solving </h2>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=right5625">
     <img src="http://mazandi.herokuapp.com/api?handle=right5625&theme=warm">
 </div>
 <br>
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Stats </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Stats </h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=right5625&layout=compact&bg_color=60,4a90e2,8e44ad&title_color=ffffff&text_color=ffffff">
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=right5625&bg_color=60,4a90e2,8e44ad&title_color=ffffff&text_color=ffffff">
