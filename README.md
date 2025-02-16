@@ -132,7 +132,7 @@
     <table>
         <thead>
             <tr>
-                <th>홛동명</th>
+                <th>활동명</th>
                 <th>주최기관</th>
                 <th>기간</th>
                 <th>내용</th>
@@ -141,7 +141,7 @@
         </thead>
         <tbody>
             <tr>
-                <td style="text-align: center;"><sapn>Google Developer<br>Student Clubs<br>DEU 2기</sapn></td>
+                <td><sapn>Google Developer<br>Student Clubs<br>DEU 2기</sapn></td>
                 <td>Google</td>
                 <td>2022.09~2023.08(22-23)</td>
                 <td>
