@@ -129,8 +129,7 @@
                 <th>활동명</th>
                 <th>주최기관</th>
                 <th>기간</th>
-                <th>내용</th>
-                <th>비고</th>
+                <th>수행내용</th>
             </tr>
         </thead>
         <tbody>
@@ -144,7 +143,6 @@
                         <li>놀러와요 해커톤 기획 및 개최</li>
                     </ul>
                 </td>
-                <td>https://gdsc-deu.github.io/</td>
             </tr>
             <tr>
                 <td>BOB CLUB 18기 & 19기</td>
@@ -161,7 +159,6 @@
                         <li>부산 워크숍(2024.12.26) 참가</li>
                     </ul>
                 </td>
-                <td></td>
             </tr>
             <tr>
                 <td>전공 튜터링</td>
@@ -175,7 +172,6 @@
                 <td>한국은행 부산본부</td>
                 <td>2024.04.19~2024.12.13</td>
                 <td>통화신용정책, 중앙은행 디지털화폐(CBDC) 등 교육 이수</td>
-                <td></td>
             </tr>
             <tr>
                 <td>BUFF(Busan University network of Future Financial leader) 8기</td>
@@ -188,15 +184,10 @@
                 <td>2024.09.24~2024.12.30</td>
                 <td>
                     <ul>
-                        <li>BNK 부산은행, 한국자산관리공사 현직자 멘토링</li>
-                        <li>BNK 부산은행 주관 일일취업캠프 참가(부산은행 연수원)</li>
-                        <li>금융권 취업 특강</li>
-                        <li>FSC(Financial Specialist Contests) 경진대회 참가</li>
-                    </ul>
-                </td>
-                <td>
-                    <ul>
-                        <li>FSC(Financial Specialist Contests) 경진대회 최우수상 수상</li>
+                        <li>BNK 부산은행, 한국자산관리공사 현직자 멘토링 참가(멘토링 조장 역할 수행)</li>
+                        <li>BNK 부산은행 연수원 일일취업캠프 참가</li>
+                        <li>금융권 취업 특강 참가</li>
+                        <li>FSC(Financial Specialist Contests) 경진대회 참가 및 최우수상 수상</li>
                         <li>https://www.100ssd.co.kr/news/articleView.html?idxno=115804</li>
                         <li>8기 우수 수료생 선발 및 한국자산관리공사 1개월 현장 실습생 선발</li>
                     </ul>
@@ -211,8 +202,12 @@
                     </ul>
                 </td>
                 <td>2025.01.07~</td>
-                <td>~ing</td>
-                <td>1학기 부울경 캠퍼스 지역대표 역할 수행</td>
+                <td>
+                    <ul>
+                        <li>1학기 부울경 캠퍼스 지역대표 역할 수행</li>
+                        <li>~ing</li>
+                    </ul>
+                </td>
             </tr>
         </tbody>
     </table>
