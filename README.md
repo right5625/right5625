@@ -20,7 +20,7 @@
         <div>
             <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🥉 3rd </h4>
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-            <img src="https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white">
+            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
         </div>
     </div>
 </div>
