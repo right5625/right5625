@@ -4,30 +4,40 @@
         <div>
             <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🥇 1st </h4>
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+            <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+            <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
         </div>
         <br>
         <div>
             <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🥈 2nd </h4>
             <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white">
             <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-            <img src="https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-            <br> 
-            <img src="https://img.shields.io/badge/jetpack%20compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+            <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
             <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+            <img src="https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+            <img src="https://img.shields.io/badge/jetpack%20compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
         </div>
         <br>
         <div>
             <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🥉 3rd </h4>
-            <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+            <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
             <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+            <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
         </div>
     </div>
 </div>
 <br>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏ Studying & Interests </h2>
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">
@@ -141,7 +151,6 @@
                 </td>
                 <td>2022.09~2023.08</td>
             </tr>
-            <!--
             <tr>
                 <td>전공 튜터링</td>
                 <td>DEU</td>
@@ -163,7 +172,6 @@
                 </td>
                 <td>2024.03.18~2024.06.24 & 2024.09.01~2024.12.13</td>
             </tr>
-            -->
             <tr>
                 <td>한은금요강좌</td>
                 <td>한국은행 부산본부</td>
@@ -201,7 +209,6 @@
         </tbody>
     </table>
 </div>
-<!--
 <br>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Stats </h2>
@@ -209,4 +216,3 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=right5625&bg_color=60,4a90e2,8e44ad&title_color=ffffff&text_color=ffffff">
 </div>
--->
