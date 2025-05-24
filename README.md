@@ -37,6 +37,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏ Studying & Interests </h2>
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -148,7 +149,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>GDSC DEU 2기(22-23)</td>
+                <td>GDSC(Google Developer Student Clubs) DEU 2기(22-23)</td>
                 <td>Google & DEU</td>
                 <td>
                     <ul>
@@ -184,26 +185,26 @@
                 <td>한국은행 부산본부</td>
                 <td>
                     <ul>
-                        <li>중앙은행 디지털화폐(CBDC) 교육 등 이수</li>
+                        <li>중앙은행 디지털화폐(CBDC) 등 총 7가지 교육 이수</li>
                     </ul>
                 </td>
                 <td>2024.04.19~2024.12.13</td>
             </tr>
             <tr>
-                <td>BUFF 8기</td>
+                <td>BUFF(Busan University network of Future Financial leader) 8기</td>
                 <td>BNK 부산은행 & 한국자산관리공사</td>
                 <td>
                     <ul>
                         <li>BNK 부산은행, 한국자산관리공사 현직자 멘토링 참가(멘토링 조 내에서 조장 역할 수행)</li>
                         <li>BNK 부산은행 연수원 일일취업캠프 참가</li>
-                        <li>FSC 경진대회 참가 및 최우수상 수상</li>
+                        <li>FSC(Financial Specialist Contests) 경진대회 참가 및 최우수상 수상</li>
                         <li>BUFF 8기 우수 수료생 및 한국자산관리공사 1개월 현장 실습생 선발</li>
                     </ul>
                 </td>
                 <td>2024.09.24~2024.12.30</td>
             </tr>
             <tr>
-                <td>SSAFY 13기</td>
+                <td>SSAFY(Samsung Software Academy For Youth) 13기</td>
                 <td>Samsung & 고용노동부</td>
                 <td>
                     <ul>
