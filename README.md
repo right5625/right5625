@@ -98,6 +98,13 @@
                 <td></td>
             </tr>
             <tr>
+                <td>PCCP Lv2</td>
+                <td>-</td>
+                <td>프로그래머스 코딩역량인증시험</td>
+                <td>2025.04.20</td>
+                <td></td>
+            </tr>
+            <tr>
                 <td>컴퓨터활용능력1급</td>
                 <td>국가기술자격</td>
                 <td>대한상공회의소</td>
@@ -209,10 +216,10 @@
         </tbody>
     </table>
 </div>
-<br>
+<!-- <br>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Stats </h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=right5625&layout=compact&bg_color=60,4a90e2,8e44ad&title_color=ffffff&text_color=ffffff">
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=right5625&bg_color=60,4a90e2,8e44ad&title_color=ffffff&text_color=ffffff">
-</div>
+</div> -->
