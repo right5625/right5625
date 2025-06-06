@@ -78,7 +78,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td>리눅스마스터1급</td>
+                <td>리눅스마스터 1급</td>
                 <td>국가공인민간자격</td>
                 <td>한국정보통신진흥협회</td>
                 <td>2020.12.11</td>
@@ -99,14 +99,14 @@
                 <td></td>
             </tr>
             <tr>
-                <td>PCCP Lv2</td>
+                <td>PCCP LV.2</td>
                 <td>-</td>
                 <td>프로그래머스</td>
                 <td>2025.04.20</td>
                 <td></td>
             </tr>
             <tr>
-                <td>컴퓨터활용능력1급</td>
+                <td>컴퓨터활용능력 1급</td>
                 <td>국가기술자격</td>
                 <td>대한상공회의소</td>
                 <td>2020.05.22</td>
@@ -127,7 +127,7 @@
                 <td>OA Master 취득</td>
             </tr>
             <tr>
-                <td>ITQ(정보기술자격) A등급</td>
+                <td>정보기술자격(ITQ) A등급</td>
                 <td>국가공인민간자격</td>
                 <td>한국생산성본부</td>
                 <td>2020.07.30</td>
@@ -149,7 +149,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>GDSC(Google Developer Student Clubs) DEU 2기(22-23)</td>
+                <td>GDSC DEU 2기(22-23)</td>
                 <td>Google & DEU</td>
                 <td>
                     <ul>
@@ -179,7 +179,7 @@
                 <td>2024.04.19~2024.12.13</td>
             </tr>
             <tr>
-                <td>BUFF(Busan University network of Future Financial leader) 8기</td>
+                <td>BUFF 8기</td>
                 <td>BNK 부산은행 & 한국자산관리공사</td>
                 <td>
                     <ul>
@@ -192,7 +192,7 @@
                 <td>2024.09.24~2024.12.30</td>
             </tr>
             <tr>
-                <td>SSAFY(Samsung Software Academy For Youth) 13기</td>
+                <td>SSAFY 13기</td>
                 <td>Samsung & 고용노동부</td>
                 <td>
                     <ul>
