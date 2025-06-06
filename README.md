@@ -101,7 +101,7 @@
             <tr>
                 <td>PCCP Lv2</td>
                 <td>-</td>
-                <td>프로그래머스 코딩역량인증시험</td>
+                <td>프로그래머스</td>
                 <td>2025.04.20</td>
                 <td></td>
             </tr>
@@ -122,7 +122,7 @@
             <tr>
                 <td>e-Test Professionals 1급</td>
                 <td>국가공인민간자격</td>
-                <td>(사)한국창의인성교육연구원</td>
+                <td>한국창의인성교육연구원</td>
                 <td>2020.06.13</td>
                 <td>OA Master 취득</td>
             </tr>
@@ -209,7 +209,6 @@
                 <td>
                     <ul>
                         <li>1학기 부울경 캠퍼스 지역대표 역할 수행</li>
-                        <li>~ing</li>
                     </ul>
                 </td>
                 <td>2025.01.07~</td>
