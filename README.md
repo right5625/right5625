@@ -157,7 +157,7 @@
                         <li>놀러와요 해커톤 기획 및 개최</li>
                     </ul>
                 </td>
-                <td>2022.09~2023.08</td>
+                <td>2022.09.01~2023.08.31</td>
             </tr>
             <tr>
                 <td>전공 튜터링</td>
@@ -166,20 +166,8 @@
                     <ul>
                         <li>C++ 문법 및 객체지향 프로그래밍 튜터링 수행</li>
                     </ul>
-                <td>2023.04.03~2023.06.11</td>
+                <td>2023.04.03~2023.06.05</td>
             </tr>
-<!--             <tr>
-                <td>BOB CLUB 18기 & 19기</td>
-                <td>DEU</td>
-                <td>
-                    <ul>
-                        <li>자소서 첨삭 및 면접 교육 & 모의면접 진행</li>
-                        <li>경주 워크숍(2024.06.24~25) 참가</li>
-                        <li>부산 워크숍(2024.12.26) 참가</li>
-                    </ul>
-                </td>
-                <td>2024.03.18~2024.06.24 & 2024.09.01~2024.12.13</td>
-            </tr> -->
             <tr>
                 <td>한은금요강좌</td>
                 <td>한국은행 부산본부</td>
@@ -216,10 +204,3 @@
         </tbody>
     </table>
 </div>
-<!-- <br>
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Stats </h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=right5625&layout=compact&bg_color=60,4a90e2,8e44ad&title_color=ffffff&text_color=ffffff">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=right5625&bg_color=60,4a90e2,8e44ad&title_color=ffffff&text_color=ffffff">
-</div> -->
