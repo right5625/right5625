@@ -2,14 +2,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div style="margin: 0 auto; text-align: center;" align= "center">
         <div>
-            <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🥇 1st </h4>
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
             <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
             <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-        </div>
-        <br>
-        <div>
-            <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🥈 2nd </h4>
+            <br>
             <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white">
             <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
@@ -22,13 +18,6 @@
             <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
             <img src="https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
             <img src="https://img.shields.io/badge/jetpack%20compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-        </div>
-        <br>
-        <div>
-            <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🥉 3rd </h4>
-            <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
-            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-            <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
         </div>
     </div>
 </div>
