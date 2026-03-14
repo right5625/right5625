@@ -23,12 +23,6 @@
 </div>
 <br>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏ Studying & Interests </h2>
-    <img src="https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white">
-</div>
-<br>
-<div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Algorithm & Problem Solving </h2>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=right5625">
     <img src="http://mazandi.herokuapp.com/api?handle=right5625&theme=dark">
